@@ -1,5 +1,5 @@
 import axios from 'axios';
-const BaseUrl='https://pure-depths-78451.herokuapp.com/'
+const BaseUrl='https://radiant-crag-37378.herokuapp.com/'
 
 export const request = (path, data, method) => {
   let token = localStorage.getItem('token');

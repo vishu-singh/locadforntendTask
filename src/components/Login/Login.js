@@ -26,13 +26,11 @@ export const Login = props => {
         password,
       });
       if (res.data.status == 200) {
-        alert('inside')
-        localStorage.setItem('token',res.data.data.token)
+        localStorage.setItem('token', res.data.data.token);
         history.push('/products');
       }
-      console.log(res,history, 'here is response');
+      
     } catch (err) {
-      console.log(err.response, 'here is response');
       toast.dark(err.response.data.message);
     }
   }

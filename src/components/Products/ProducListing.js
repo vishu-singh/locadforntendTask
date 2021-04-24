@@ -24,7 +24,6 @@ export const ProductListing = props => {
       id: product._id,
     };
     DeleteProduct(obj).then(res => {
-      console.log(res, 'response');
       if (res.data.status == 200) {
         toast.dark('Product Deleted');
         dispatch(getProducts());
