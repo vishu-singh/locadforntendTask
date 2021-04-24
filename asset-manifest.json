@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/locadforntendTask/static/css/main.f6f735e2.chunk.css",
+    "main.js": "/locadforntendTask/static/js/main.4affb708.chunk.js",
+    "main.js.map": "/locadforntendTask/static/js/main.4affb708.chunk.js.map",
+    "runtime-main.js": "/locadforntendTask/static/js/runtime-main.ec449fc1.js",
+    "runtime-main.js.map": "/locadforntendTask/static/js/runtime-main.ec449fc1.js.map",
+    "static/css/2.3f6a4e7d.chunk.css": "/locadforntendTask/static/css/2.3f6a4e7d.chunk.css",
+    "static/js/2.63448acf.chunk.js": "/locadforntendTask/static/js/2.63448acf.chunk.js",
+    "static/js/2.63448acf.chunk.js.map": "/locadforntendTask/static/js/2.63448acf.chunk.js.map",
+    "static/js/3.e7c626a8.chunk.js": "/locadforntendTask/static/js/3.e7c626a8.chunk.js",
+    "static/js/3.e7c626a8.chunk.js.map": "/locadforntendTask/static/js/3.e7c626a8.chunk.js.map",
+    "index.html": "/locadforntendTask/index.html",
+    "static/css/2.3f6a4e7d.chunk.css.map": "/locadforntendTask/static/css/2.3f6a4e7d.chunk.css.map",
+    "static/css/main.f6f735e2.chunk.css.map": "/locadforntendTask/static/css/main.f6f735e2.chunk.css.map",
+    "static/js/2.63448acf.chunk.js.LICENSE.txt": "/locadforntendTask/static/js/2.63448acf.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/locadforntendTask/static/media/logo.6ce24c58.svg",
+    "static/media/sampleimage.42bfc4f9.jpeg": "/locadforntendTask/static/media/sampleimage.42bfc4f9.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec449fc1.js",
+    "static/css/2.3f6a4e7d.chunk.css",
+    "static/js/2.63448acf.chunk.js",
+    "static/css/main.f6f735e2.chunk.css",
+    "static/js/main.4affb708.chunk.js"
+  ]
+}
